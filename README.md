@@ -1,3 +1,2 @@
 # Johnny
-
-Wyncode git Stuff.
+Github Portfolio 1 hw
