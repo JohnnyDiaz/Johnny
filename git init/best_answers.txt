@@ -1,0 +1,6 @@
+As an: Car rental customer
+I want to: rent a car
+So that: I can drive
+-I get the car
+-I don not have enough funds to rent the car
+-I don’t even know how to drive
